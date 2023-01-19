@@ -18,4 +18,4 @@
   - No hay información de los modelos.
 - Por simplicidad omití algunas prácticas estándar para Docker(pasarle el venv local, por nombrar algo).
 
-### Nota: el ejercicio 2 se encuentra en un gist, separado de este repositorio: https://gist.github.com/Zaniuk/efe76ccf0d3a57a6718e140b0090b865
+### Nota: el ejercicio 2 se encuentra en un gist, separado de este repositorio: https://gist.github.com/Zaniuk/c672c04b6b71f54f0e8586a2cdebab45
