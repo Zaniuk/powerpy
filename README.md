@@ -16,3 +16,4 @@
   - Hace falta más información sobre los fields de los endpoints.
   - Hace falta más información sobre los códigos de respuesta.
   - No hay información de los modelos.
+- Por simplicidad omití algunas prácticas estándar para Docker(pasarle el venv local, por nombrar algo).
